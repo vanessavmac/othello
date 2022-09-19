@@ -1,0 +1,15 @@
+/Users/vanessa/Desktop/othello/bin/Debug/net5.0/CSharpProject.deps.json
+/Users/vanessa/Desktop/othello/bin/Debug/net5.0/CSharpProject.runtimeconfig.json
+/Users/vanessa/Desktop/othello/bin/Debug/net5.0/CSharpProject.runtimeconfig.dev.json
+/Users/vanessa/Desktop/othello/bin/Debug/net5.0/CSharpProject.dll
+/Users/vanessa/Desktop/othello/bin/Debug/net5.0/ref/CSharpProject.dll
+/Users/vanessa/Desktop/othello/bin/Debug/net5.0/CSharpProject.pdb
+/Users/vanessa/Desktop/othello/obj/Debug/net5.0/CSharpProject.csproj.AssemblyReference.cache
+/Users/vanessa/Desktop/othello/obj/Debug/net5.0/CSharpProject.GeneratedMSBuildEditorConfig.editorconfig
+/Users/vanessa/Desktop/othello/obj/Debug/net5.0/CSharpProject.AssemblyInfoInputs.cache
+/Users/vanessa/Desktop/othello/obj/Debug/net5.0/CSharpProject.AssemblyInfo.cs
+/Users/vanessa/Desktop/othello/obj/Debug/net5.0/CSharpProject.csproj.CoreCompileInputs.cache
+/Users/vanessa/Desktop/othello/obj/Debug/net5.0/CSharpProject.dll
+/Users/vanessa/Desktop/othello/obj/Debug/net5.0/ref/CSharpProject.dll
+/Users/vanessa/Desktop/othello/obj/Debug/net5.0/CSharpProject.pdb
+/Users/vanessa/Desktop/othello/obj/Debug/net5.0/CSharpProject.genruntimeconfig.cache
